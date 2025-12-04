@@ -1,6 +1,7 @@
 class DisplayManager:
     """Класс для управления отображением информации"""
     "new comment"
+    "one more new comment"
     
     def __init__(self, calculator):
         self.calculator = calculator
